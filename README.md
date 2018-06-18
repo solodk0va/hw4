@@ -1,7 +1,7 @@
 # hw4
 google forms stats
 
-Таблица с решением по[ссылке](https://docs.google.com/spreadsheets/d/1F4PRF7F1I6QwMx7LLlW0CcSNTZy-7nfYkB4NYdnl5Q8/edit?usp=sharing). Диаграммы и мин/макс на отдельных вкладках.
+Таблица с решением по [ссылке](https://docs.google.com/spreadsheets/d/1F4PRF7F1I6QwMx7LLlW0CcSNTZy-7nfYkB4NYdnl5Q8/edit?usp=sharing). Диаграммы и мин/макс на отдельных вкладках.
 
 ### Выводы
 
